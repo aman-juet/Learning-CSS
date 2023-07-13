@@ -1,0 +1,12 @@
+.disp{
+    border:1px solid red;
+    width: 50%;
+    height: 100px;
+    display: inline-block;
+}
+
+#div1{
+    display:none;   
+     /* leaves its space */
+    /* visibility: hidden;   dikhta nai h, but apna space jarur occupy karega */
+}
